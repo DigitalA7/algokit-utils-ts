@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français sur AlgoKit Utils TypeScript : client Algorand, transactions, contrats, configuration et intégration applicative. Voir [le sommaire](docs/fr/README.md).
+
 # AlgoKit TypeScript Utilities
 
 A set of core Algorand utilities written in TypeScript and released via npm that make it easier to build solutions on Algorand. This project is part of [AlgoKit](https://github.com/algorandfoundation/algokit-cli).
